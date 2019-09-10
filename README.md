@@ -1,3 +1,7 @@
+# Hacker New Clone Project Intent
+
+This is my first of a series of clone projects. The objective of this project is to create an application with similar or additional design and functionality with <https://competent-tesla-bf9dde.netlify.com/.> I will be using patterns React, ReactDOM, and ES10 syntax. I will be using the Hacker News API and my final link will be posted below when the project is complete.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
