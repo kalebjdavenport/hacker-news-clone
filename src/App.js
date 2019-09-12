@@ -1,13 +1,15 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import './App.css'
+
+import Nav from './Nav/containers/MainNav'
 
 function App() {
   return (
     <div className="App">
+      <Nav />
       <h1>Hacker News</h1>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
